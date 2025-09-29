@@ -1,0 +1,33 @@
+# Core dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+diffusers>=0.24.0
+transformers>=4.30.0
+accelerate>=0.20.0
+xformers>=0.0.20
+
+# Image processing
+Pillow>=9.0.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# Face processing
+insightface>=0.7.3
+onnxruntime-gpu>=1.15.0
+
+# Web demo
+gradio>=3.40.0
+
+# Model utilities
+safetensors>=0.3.0
+huggingface-hub>=0.16.0
+
+# Training utilities
+tensorboard>=2.13.0
+wandb>=0.15.0
+packaging>=21.0
+
+# Other utilities
+tqdm>=4.65.0
+scipy>=1.10.0
+scikit-image>=0.20.0
