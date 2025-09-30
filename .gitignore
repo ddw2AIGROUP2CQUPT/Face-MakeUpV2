@@ -175,7 +175,6 @@ cython_debug/
 
 *.pth
 
-*.bin
 
 # JPEG
 *.jpg
@@ -245,7 +244,7 @@ cython_debug/
 
 *.jsonl
 
-checkpoints/
+
 
 data/
 
@@ -256,3 +255,4 @@ models/Relightable-Portrait-Animation
 
 *.ckpt
 *.safetensors
+*.bin
