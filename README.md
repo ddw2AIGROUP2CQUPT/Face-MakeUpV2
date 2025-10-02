@@ -1,9 +1,11 @@
 ## Demo
+
 <p align="center">
   <video src="./assets/demo3.mp4" controls width="100%">
     Your browser does not support the video tag.
   </video>
 </p>
+
 ## 🚀 Installation
 
 1. Clone the repository:
