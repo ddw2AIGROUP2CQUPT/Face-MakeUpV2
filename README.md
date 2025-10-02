@@ -1,10 +1,6 @@
 ## Demo
 
-<p align="center">
-  <video src="./assets/demo3.mp4" controls width="100%">
-    Your browser does not support the video tag.
-  </video>
-</p>
+https://github.com/user-attachments/assets/494219f2-6c9d-4308-a865-55450b8103a2
 
 ## 🚀 Installation
 
