@@ -1,6 +1,6 @@
 ## Demo
 
-https://raw.githubusercontent.com/username/repo/main/video.mp4](https://github.com/user-attachments/assets/494219f2-6c9d-4308-a865-55450b8103a2
+https://github.com/user-attachments/assets/494219f2-6c9d-4308-a865-55450b8103a2
 
 ## 🚀 Installation
 
