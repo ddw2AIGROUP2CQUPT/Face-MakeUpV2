@@ -1,7 +1,7 @@
 ## Demo
 
+<video controls autoplay src="https://github.com/user-attachments/assets/98bf0b4a-ac21-4eb7-bee1-ff85a5562796"></video>
 
-<video controls autoplay src="https://github.com/user-attachments/assets/494219f2-6c9d-4308-a865-55450b8103a2"></video>
 ## 🚀 Installation
 
 1. Clone the repository:
