@@ -44,4 +44,12 @@ Face-MakeUpV2/
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-
+## Citation
+```
+@article{dai2025face,
+  title={Face-MakeUpV2: Facial Consistency Learning for Controllable Text-to-Image Generation},
+  author={Dai, Dawei and Zhou, Yinxiu and Li, Chenghang and Jiang, Guolai and Zhang, Chengfang},
+  journal={arXiv preprint arXiv:2510.21775},
+  year={2025}
+}
+```
