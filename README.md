@@ -2,6 +2,9 @@
 
 <video controls autoplay src="https://github.com/user-attachments/assets/98bf0b4a-ac21-4eb7-bee1-ff85a5562796"></video>
 
+
+![Overview of our Face-MakeUpV2](assets/model.png)
+Overview of our Face-MakeUpV2
 ## 🚀 Installation
 
 1. Clone the repository:
@@ -15,7 +18,7 @@ cd Face-MakeUpV2
 pip install -r requirements.txt
 ```
 
-3. Download pretrained models (see Model Setup section)
+3. Download pretrained models
 
 
 ### Web Demo
