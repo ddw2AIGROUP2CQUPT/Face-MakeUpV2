@@ -1,3 +1,8 @@
+
+## Dataset Release
+
+[FaceCaptionMask-1M](https://huggingface.co/datasets/anonymous-user-2025/FaceCaptionMask-1M)
+
 ## Demo
 
 <video controls autoplay src="https://github.com/user-attachments/assets/98bf0b4a-ac21-4eb7-bee1-ff85a5562796"></video>
