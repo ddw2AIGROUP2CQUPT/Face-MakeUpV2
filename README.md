@@ -9,7 +9,7 @@ Overview of our Face-MakeUpV2
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-repo/Face-MakeUpV2.git
+git clone https://github.com/ddw2AIGROUP2CQUPT/Face-MakeUpV2.git
 cd Face-MakeUpV2
 ```
 
